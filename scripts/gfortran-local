@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+JTDX_FM_ROOT="$(cd -- "$(dirname -- "$0")/.." && pwd)"
+exec "$JTDX_FM_ROOT/.deps/root/usr/bin/gfortran" -B"$JTDX_FM_ROOT/.deps/root/usr/lib/gcc/x86_64-pc-linux-gnu/16/" -B/usr/lib/gcc/x86_64-pc-linux-gnu/16/ "$@"

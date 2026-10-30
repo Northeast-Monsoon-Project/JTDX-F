@@ -1,0 +1,6 @@
+SuperFox receive implementation from CE3TSK JTDX_CONTEST, GPLv3 or later.
+https://github.com/ce3tsk/jtdx_contest
+Commit: 450da82c0ef54c8f68477934fa90d0b5765855bf
+Derived receiver and polar codec originally by the WSJT-X contributors and Nico Palermo IV3NWV.
+The restricted qpc_n127k50q128.c is NOT included. qpc_measured.c and qpc/measured/ preserve the independently measured code definition and complete provenance. See headers, qpc/measured/README.md and project COPYING.
+JTDX-F integration by Fluxmancer: receive-only mode; normal FT8 uplink; no SuperFox transmission or identity authentication claims.

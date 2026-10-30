@@ -1,0 +1,7 @@
+https://mirrors.aliyun.com/archlinux/extra/os/x86_64/mingw-w64-binutils-2.47-1-x86_64.pkg.tar.zst
+https://mirrors.aliyun.com/archlinux/extra/os/x86_64/mingw-w64-crt-14.0.0-1-any.pkg.tar.zst
+https://mirrors.aliyun.com/archlinux/extra/os/x86_64/mingw-w64-headers-14.0.0-1-any.pkg.tar.zst
+https://mirrors.aliyun.com/archlinux/extra/os/x86_64/mingw-w64-winpthreads-14.0.0-1-any.pkg.tar.zst
+https://mirrors.aliyun.com/archlinux/extra/os/x86_64/mingw-w64-gcc-16.2.0-2-x86_64.pkg.tar.zst
+https://mirrors.aliyun.com/archlinux/extra/os/x86_64/ntsync-autoload-1-1-any.pkg.tar.zst
+https://mirrors.aliyun.com/archlinux/extra/os/x86_64/wine-11.20-1-x86_64.pkg.tar.zst

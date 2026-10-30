@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+FM_ROOT="$(cd -- "$(dirname -- "$0")/.." && pwd)"
+export PKG_CONFIG_PATH=""
+export PKG_CONFIG_LIBDIR="$FM_ROOT/.deps/msys2/ucrt64/lib/pkgconfig"
+exec /usr/bin/pkg-config "$@"

@@ -1,0 +1,126 @@
+{
+  "OmniRig.zip": {
+    "sha256": "46654ec3ba2fe9ff23a21edaa657c46e0e9867b62b254968a3c4436dd81531a8",
+    "bytes": 1140719
+  },
+  "boost-1.92.0-1-x86_64.pkg.tar.zst": {
+    "sha256": "0d795c6401c8bfa16012ada7e2e7f34934fb268f9174470edac1b389056f79bb",
+    "bytes": 12753451
+  },
+  "cppcheck-2.22.0-1-x86_64.pkg.tar.zst": {
+    "sha256": "6da8e871f3d8d2f410bd959759fac3f6b3a6c000a8a6756f6a6f61f8672b92e3",
+    "bytes": 3867015
+  },
+  "gcc-fortran-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst": {
+    "sha256": "008443629461abc92ff3ea6d363a5d951e2b314998a4165b4d6f0f7dc5a97007",
+    "bytes": 16151785
+  },
+  "gsl-2.8-1-x86_64.pkg.tar.zst": {
+    "sha256": "0bbc6416c46c457c188a166596dea0aed3586d74c5a5bd9cc7da8a3152465e60",
+    "bytes": 1598600
+  },
+  "hamlib-4.7.2-2-x86_64.pkg.tar.zst": {
+    "sha256": "36a27be4a5aa44053508b9844cc05948951a8c0c460401f3de0d884b028012b9",
+    "bytes": 3591494
+  },
+  "hamlib-src.tar.gz": {
+    "sha256": "ae1fcf2dbc80ea0786ea8f047b09399c3f7737d1930442f61a031708ed33e88f",
+    "bytes": 3107379
+  },
+  "innoextract-1.9-17-x86_64.pkg.tar.zst": {
+    "sha256": "c2694ccb22971eaf3ab7dd0a3e600aa1005fdcb6d9f0f3f0abcafaf50a005be0",
+    "bytes": 234746
+  },
+  "libev-4.33-5-x86_64.pkg.tar.zst": {
+    "sha256": "491bca1354602f24e8fb21a1c046774b86888a69b8ecba58ddb57693fa8e580a",
+    "bytes": 123530
+  },
+  "libindi-2.2.5-1-x86_64.pkg.tar.zst": {
+    "sha256": "3933a2198cc38d6aa6e414047186e716673ce4408cf1f3fd51da0b59ef85a64c",
+    "bytes": 5502333
+  },
+  "libnova-0.16-3-x86_64.pkg.tar.zst": {
+    "sha256": "6305a3596ba4aa48f6dde33d8cbbf124010bee56015d9456c3774325a65971a7",
+    "bytes": 966965
+  },
+  "libusb-src.tar.bz2": {
+    "sha256": "fea36f34f9156400209595e300840767ab1a385ede1dc7ee893015aea9c6dbaf",
+    "bytes": 656112
+  },
+  "mingw-w64-binutils-2.47-1-x86_64.pkg.tar.zst": {
+    "sha256": "a174f1b5894674b039d356878198e146053fa9527b282d6fac3acb46309b117d",
+    "bytes": 4774023
+  },
+  "mingw-w64-crt-14.0.0-1-any.pkg.tar.zst": {
+    "sha256": "a809d9b6608235e5b693f1ebda97aa6c3539783c84509cb8db3306ef56ad0a4f",
+    "bytes": 9015093
+  },
+  "mingw-w64-gcc-16.2.0-2-x86_64.pkg.tar.zst": {
+    "sha256": "9fde71b655105ed8704fb1494a39f3b94d0a138df9dface881588e6cef4886f1",
+    "bytes": 293381928
+  },
+  "mingw-w64-headers-14.0.0-1-any.pkg.tar.zst": {
+    "sha256": "5b8d6e83aa5c3b456d96a12a4af51518ddd71600d66048ced4b34c0b40a3fb19",
+    "bytes": 12539291
+  },
+  "mingw-w64-winpthreads-14.0.0-1-any.pkg.tar.zst": {
+    "sha256": "21a4dd95e8a5f0b802d8585e59024f2cfbbd435cee31ed31b511159d9d10579b",
+    "bytes": 230527
+  },
+  "ntsync-autoload-1-1-any.pkg.tar.zst": {
+    "sha256": "415b719fd68cc4c663692a400c2418743dd8dacad8fff541119505e25eecefa4",
+    "bytes": 3142
+  },
+  "openal-1.25.2-2-x86_64.pkg.tar.zst": {
+    "sha256": "f836d5ee3aa0fc4b46800ac41840e8aa35d076de93114fd07d0de43546c1bd07",
+    "bytes": 995050
+  },
+  "qt5-base-5.15.19+kde+r96-1-x86_64.pkg.tar.zst": {
+    "sha256": "c772c6d18c29b58443cee96d9a6012baf8cb9622a14553e4759fdc418b93cf3c",
+    "bytes": 14087128
+  },
+  "qt5-multimedia-5.15.19+kde+r2-1-x86_64.pkg.tar.zst": {
+    "sha256": "a791eb720836c86ae9328a4d775ec9095637007a121f7c6b75dd9ead52373018",
+    "bytes": 789832
+  },
+  "qt5-serialport-5.15.19-1-x86_64.pkg.tar.zst": {
+    "sha256": "9e241c71de8ecf414b5c0c2425f4c880ac2ab1fcd6b9178996e97a9012f64b8d",
+    "bytes": 43441
+  },
+  "qt5-tools-5.15.19+kde+r3-2-x86_64.pkg.tar.zst": {
+    "sha256": "cf315fce2107672f24407c5814c9a7a8189441b7eff659790f198da904181937",
+    "bytes": 5626054
+  },
+  "qt5-translations-5.15.19-1-any.pkg.tar.zst": {
+    "sha256": "5031b69a16673fa44d5d9285276960e8b6f93df38211a60977a288b661008c88",
+    "bytes": 1952692
+  },
+  "qtactiveqt.tar.xz": {
+    "sha256": "cb7f4cb1ac219ba188d69d01eb7a6103dc53d147c534b86752c6f7fdd9facf63",
+    "bytes": 248388
+  },
+  "qtwebsockets.tar.xz": {
+    "sha256": "8cfc13d6465ab43717c508a90b6be15c5cec4952afb3b8c6e5192dabe83ec610",
+    "bytes": 239240
+  },
+  "rtl-sdr-1:2.0.3-1-x86_64.pkg.tar.zst": {
+    "sha256": "b15580414021e01397f8f90b01453fa3aad5892486f4df54545f6d86a38c19e3",
+    "bytes": 96030
+  },
+  "tinyxml2-11.0.0-2-x86_64.pkg.tar.zst": {
+    "sha256": "75ebed93d1496529b97068b17f4aad8c8932a4126f3f5e7ea31c46b0e43e218d",
+    "bytes": 48647
+  },
+  "wine-11.20-1-x86_64.pkg.tar.zst": {
+    "sha256": "6dfd8bcc9b370de2942732a36d730e1b18a141218975315da816c8326c237644",
+    "bytes": 80771782
+  },
+  "xorg-server-xvfb-21.1.25-2-x86_64.pkg.tar.zst": {
+    "sha256": "52c6d0394109b0bdfd0e4d00dd8d89d7e38bfe7576d96145179f216480eb7564",
+    "bytes": 873530
+  },
+  "xorg-xauth-1.1.5-1-x86_64.pkg.tar.zst": {
+    "sha256": "df9e0d1f29ae0135a49b17157841a4cc7c97869f9f27fd7480fff64f9afb94b7",
+    "bytes": 24920
+  }
+}

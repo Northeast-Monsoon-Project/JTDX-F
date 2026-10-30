@@ -1,2 +1,12 @@
-TAGS
-tags
+# 本地依赖与构建产物（见 jtdx-master/docs/构建说明_zh.md）
+/.deps/
+/build/
+/build-*/
+/install/
+/install-windows/
+/release/
+/logs/
+
+# 操作员私有通联日志不进入仓库
+*.adi
+*.adif
