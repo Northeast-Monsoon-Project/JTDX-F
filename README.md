@@ -87,10 +87,10 @@ JTDX-F 使用独立的应用名称和设置目录，可以和原版 JTDX 及其�
 
 ## 如何查看与原版的差异
 
-`JTDX-F` 分支直接建立在上游 JTDX 2.2.159 的最后一个提交 `2a0e2be`（[jtdx-project/jtdx](https://github.com/jtdx-project/jtdx) `master`）之上，保留完整的上游历史。JTDX-F 的提交把源码移入 `jtdx-master/`（构建脚本依赖这个目录结构），并加入 `scripts/`、`dependencies/`。git 会把这一移动识别为重命名，因此可以直接对比：
+本仓库直接建立在上游 JTDX 2.2.159 的最后一个提交 `2a0e2be`（[jtdx-project/jtdx](https://github.com/jtdx-project/jtdx) `master`）之上，保留完整的上游历史。JTDX-F 的提交把源码移入 `jtdx-master/`（构建脚本依赖这个目录结构），并加入 `scripts/`、`dependencies/`。git 会把这一移动识别为重命名，因此可以直接对比：
 
 ```bash
-git clone -b JTDX-F https://github.com/Northeast-Monsoon-Project/jtdx.git JTDX-F
+git clone https://github.com/Northeast-Monsoon-Project/JTDX-F.git
 cd JTDX-F
 BASE=2a0e2be   # 上游 JTDX 2.2.159
 
